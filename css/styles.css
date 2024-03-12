@@ -21,7 +21,7 @@ body {
 }
 
 header {
-  background-color: #7ab1a5;
+  background-color: #91C8E4;
   padding: 4rem 2rem;
   position: relative;
 }
@@ -92,7 +92,7 @@ input[type=number] {
   width: 95%;
   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
   /* hide arrow in input number for mozilla browser*/
-  -moz-appearance: textfield;
+  /* -moz-appearance: textfield; */
 }
 
 /* hide arrow in input number */
@@ -160,7 +160,7 @@ input::-webkit-inner-spin-button {
 .konsultasi {
   padding: 0.5rem 2rem;
   background-color: rgb(55 78 128);
-  color: hsla(215, 0%, 100%, 1);
+  color: rgb(255, 255, 255);
   cursor: pointer;
   text-decoration: none;
   border-radius: 8px;
@@ -207,7 +207,7 @@ input::-webkit-inner-spin-button {
 footer {
   display: flex;
   justify-content: space-between;
-  background-color: #E9B384;
+  background-color: #4682A9;
   margin: 0;
   height: 200px;
 }
